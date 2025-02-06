@@ -12,10 +12,10 @@ The Resume Generator is a web application that allows users to **create professi
 ✅ **Modern and responsive design**  
 
 ## 🏗️ Tech Stack
-- **Programming Language:** Python 🐍  
-- **Frameworks & Libraries:** Flask, Streamlit, HTML, CSS  
+- **Programming Language:** Javascript 
+- **Frameworks & Libraries:** HTML, CSS  
 - **PDF Generation:** ReportLab / WeasyPrint  
-- **Frontend:** Bootstrap, JavaScript  
+- **Frontend:** Bootstrap  
 
 ## 🔧 Installation & Setup
 ### Clone the repository:
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ### Run the application:
 ```bash
-streamlit run app.py
+Open with Live Server
 ```
 
 ## 🎯 Usage
